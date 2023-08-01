@@ -1,1 +1,2 @@
-# odin_recipes
+This project is to test my understanding of HTML.
+My goal with this project is to complete it as much as possible without the help of my notes, where I have written commands. By the end I would like to be comfortable in my ability to write an HTML project, at least at a basic level.# odin_recipes
