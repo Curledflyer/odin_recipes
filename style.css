@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.mac {
+    background-color: yellow;
+}
+
+.burger {
+    background-color: brown;
+}
+
+.home {
+    background-color: rgb(106, 106, 236);
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
